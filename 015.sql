@@ -1,6 +1,6 @@
 /* Q: Write a query to find the first_name, last name and birth date of patients who has height greater than 160 and weight greater than 70.
 
-Table Info: admissions
+Table Info: patients
 
 +--------------+----------+
 | Column Name  | Type     |
