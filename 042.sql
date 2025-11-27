@@ -1,5 +1,7 @@
 /* Q: Display a single row with max_visits, min_visits, average_visits where the maximum, minimum and average number of admissions per day is calculated. Average is rounded to 2 decimal places.
 
+Table Info: admissions
+
 +----------------------+----------+
 | Column Name          | Type     |
 +----------------------+----------+
